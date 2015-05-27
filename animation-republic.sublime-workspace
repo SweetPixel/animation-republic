@@ -1,0 +1,305 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"styl",
+				"style	Attr"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"Proje",
+				"ProjectLists"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"button",
+				"button	Tag"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"sele",
+				"selMemberPic"
+			],
+			[
+				"selec",
+				"selectedMembers"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 294.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Tag"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 580.0
+	},
+	"console":
+	{
+		"height": 109.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/animation-republic",
+		"/var/www/html/animation-republic/_sections",
+		"/var/www/html/animation-republic/assets",
+		"/var/www/html/animation-republic/assets/css",
+		"/var/www/html/animation-republic/assets/images"
+	],
+	"file_history":
+	[
+		"/var/www/html/animation-republic/_sections/3_services.php",
+		"/var/www/html/animation-republic/_sections/2_about.php",
+		"/var/www/html/animation-republic/assets/css/custom.css",
+		"/var/www/html/animation-republic/assets/css/animate.css",
+		"/var/www/html/animation-republic/index.php",
+		"/var/www/html/animation-republic/style.css",
+		"/home/nauroz/Meteor Projects/social-network/client/css/projects.css",
+		"/home/nauroz/Meteor Projects/social-network/collections/cards_collection.js",
+		"/home/nauroz/Meteor Projects/social-network/lib/routes.js",
+		"/home/nauroz/Meteor Projects/social-network/server/publications.js",
+		"/home/nauroz/Meteor Projects/social-network/client/projects/js/teamLists.js",
+		"/home/nauroz/Meteor Projects/social-network/client/projects/js/newTeam.js",
+		"/home/nauroz/Meteor Projects/social-network/client/projects/js/teams.js",
+		"/home/nauroz/Meteor Projects/social-network/client/projects/teams.html",
+		"/home/nauroz/Meteor Projects/social-network/client/projects/teamLists.html",
+		"/var/www/html/sps-game/app/index.html",
+		"/var/www/html/sps-game/app/js/npm.js",
+		"/home/nauroz/Meteor Projects/social-network/client/projects/js/team.js",
+		"/home/nauroz/Meteor Projects/social-network/client/projects/team.html",
+		"/home/nauroz/Meteor Projects/social-network/client/projects/js/project.js",
+		"/home/nauroz/Meteor Projects/social-network/collections/projectTeams_collection.js",
+		"/home/nauroz/Meteor Projects/social-network/client/projects/js/newProject.js",
+		"/home/nauroz/Meteor Projects/social-network/client/projects/newProject.html",
+		"/home/nauroz/Meteor Projects/social-network/client/projects/newTeam.html",
+		"/home/nauroz/Meteor Projects/social-network/client/projects/project.html",
+		"/home/nauroz/.cache/.fr-8GTB67/quranex/includes/main.css",
+		"/home/nauroz/.cache/.fr-HDArKD/quranex/view.php",
+		"/home/nauroz/Meteor Projects/social-network/collections/projectLists_collection.js",
+		"/home/nauroz/Meteor Projects/social-network/client/css/profile.css",
+		"/home/nauroz/Meteor Projects/social-network/lib/permissions.js",
+		"/home/nauroz/Meteor Projects/social-network/client/projects/projects.html",
+		"/home/nauroz/Meteor Projects/social-network/client/projects/js/projects.js",
+		"/home/nauroz/Meteor Projects/social-network/client/profiles/reg/js/1-regBasicInfo.js",
+		"/home/nauroz/Meteor Projects/social-network/client/profiles/reg/js/2-regUserType.js",
+		"/home/nauroz/Meteor Projects/social-network/client/profiles/reg/js/3-regPicUpload.js",
+		"/home/nauroz/Meteor Projects/social-network/client/profiles/reg/js/4-regPicSet.js",
+		"/home/nauroz/Meteor Projects/social-network/client/profiles/reg/js/5-regReview.js",
+		"/home/nauroz/Meteor Projects/social-network/client/profiles/reg/5-regReview.html",
+		"/home/nauroz/Meteor Projects/social-network/client/profiles/reg/4-registerPicSet.html",
+		"/home/nauroz/Meteor Projects/social-network/client/profiles/reg/3-regPicUpload.html",
+		"/home/nauroz/Meteor Projects/social-network/client/profiles/reg/2.1-regTeacher.html",
+		"/home/nauroz/Meteor Projects/social-network/client/profiles/reg/2-regUserType.html",
+		"/home/nauroz/Meteor Projects/social-network/client/profiles/reg/1-regBasicInfo.html",
+		"/home/nauroz/Meteor Projects/social-network/client/profiles/user_profile.html",
+		"/home/nauroz/Meteor Projects/social-network/client/profiles/login.html",
+		"/home/nauroz/Meteor Projects/social-network/client/profiles/loggedInUser.html",
+		"/home/nauroz/Meteor Projects/social-network/client/profiles/js/loggedInUser.js",
+		"/home/nauroz/Meteor Projects/social-network/collections/projectLists.collection.js",
+		"/home/nauroz/Meteor Projects/social-network/collections/posts_collection.js",
+		"/home/nauroz/Meteor Projects/social-network/client/posts/post_page.html",
+		"/home/nauroz/Meteor Projects/social-network/collections/projects_collection.js",
+		"/home/nauroz/Meteor Projects/social-network/client/posts/js/onePost.js",
+		"/home/nauroz/Meteor Projects/social-network/client/posts/onePost.html",
+		"/home/nauroz/Meteor Projects/social-network/client/posts/js/post_page.js",
+		"/home/nauroz/Meteor Projects/social-network/client/posts/post_submit.html",
+		"/home/nauroz/Meteor Projects/social-network/client/posts/js/post_submit.js",
+		"/var/www/html/consultancy/css/header.css",
+		"/home/nauroz/android-sdk-linux/tools/ant/build.xml",
+		"/var/www/html/consultancy/css/features-videos.css",
+		"/var/www/html/consultancy/index.php",
+		"/home/nauroz/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/var/www/html/consultancy/features-videos.php",
+		"/home/nauroz/.config/sublime-text-3/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
+		"/home/nauroz/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/nauroz/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 75.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"keyframe",
+			"console",
+			"})",
+			"navbar-collap"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 27.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "animation-republic.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Meteor Projects/social-network/nexus.sublime-project"
+			]
+		],
+		"width": 285.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
