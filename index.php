@@ -7,6 +7,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <meta name="description" content="">
    <meta name="author" content="">
+   <meta name="google-site-verification" content="fw7WMV3yr-SwqMuvKQlOuyoAf-LSh26vPbO1JtiGyOM" />
 
    <title>Animation Republic</title>
    <link rel="shortcut icon" href="assets/images/ar-nav-logo.svg">
