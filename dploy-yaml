@@ -1,0 +1,33 @@
+dev:
+    scheme: ftp
+    host: ftp.my-dev-server.com
+    port: 21
+    user: user
+    pass: password
+    check: true
+    path:
+        local: release/
+        remote: public_html/
+
+stage:
+    scheme: sftp
+    host: animation-republic.com
+    port: 22
+    privateKey: ~/.ssh/id_rsa
+    publicKey: ~/.ssh/id_rsa.pub
+    user: msayyam
+    pass: sayyam
+    check: true
+    path:
+        remote: /var/www/animation-republic.com
+
+live:
+    scheme: ftp
+    host: ftp.my-live-server.com
+    port: 21
+    user: user
+    pass: password
+    check: true
+    path:
+        local: release/
+        remote: public_html/
