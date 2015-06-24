@@ -28,8 +28,7 @@
         <style>
             body{
                 background-color: #ecf0f1;
-            }
-            
+            }            
             .link {
              color: #ed2048;    
             }
